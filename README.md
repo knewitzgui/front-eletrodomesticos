@@ -30,7 +30,7 @@ $ npm run serve
 ```
 Se o servidor do front for inicializado após a inicialização da API ele estará disponível na porta 8081
 ``
-http://localhost:8081
+http://localhost:8080
 ``
 
 ## Retornos
