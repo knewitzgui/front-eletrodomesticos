@@ -28,7 +28,7 @@ Execução do servidor local
 ```bash
 $ npm run serve
 ```
-Se o servidor do front for inicializado após a inicialização da API ele estará disponível na porta 8081
+Se o servidor do front for inicializado após a inicialização da API ele estará disponível na porta 8080
 ``
 http://localhost:8080
 ``
