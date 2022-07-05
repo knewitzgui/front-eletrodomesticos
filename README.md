@@ -4,13 +4,13 @@ O teste consiste em desenvolver um pequena aplicação frontend para consumir um
 
 Tecnologias utilizadas no projeto: Vue 3.2, HTML, CSS, Javascript
 
-Dependências: Axios, CoreJS
+Dependências: Axios, CoreJS, NodeJS(npm)
 
 ## Instalação
 
 Clone
 ```bash
-$ git clone git@github.com:knewitzgui/front-eletrodomesticos.git
+$ git clone https://github.com/knewitzgui/front-eletrodomesticos.git
 ```
 
 Acesso ao diretório
