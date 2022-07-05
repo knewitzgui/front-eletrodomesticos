@@ -7,6 +7,7 @@ Tecnologias utilizadas no projeto: Vue 3.2, HTML, CSS, Javascript
 Dependências: Axios, CoreJS, NodeJS(npm)
 
 ## Instalação
+Utilizando Gitbash:
 
 Clone
 ```bash
