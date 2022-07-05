@@ -3,6 +3,7 @@
 O teste consiste em desenvolver um pequena aplicação frontend para consumir uma API utilizando o framework Laravel.
 
 Tecnologias utilizadas no projeto: Vue 3.2, HTML, CSS, Javascript
+
 Dependências: Axios, CoreJS
 
 ## Instalação
