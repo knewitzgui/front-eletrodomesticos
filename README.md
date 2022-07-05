@@ -33,4 +33,4 @@ http://localhost:8081
 
 ## Retornos
 
-Todas as requisições retornam o status da requisição, por exemplo status 200, juntamente com uma ``message`` informando o sucesso ou falha na requisição.
+Todas as ações dão um retorno de alert para o usuário, tanto com o sucesso da ação como em falha.
